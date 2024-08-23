@@ -1,6 +1,7 @@
-# [AMXX] Cyclone
-This is plugin AMXX Cyclone to Counter Strike 1.6
+# [AMXX] JANUS-5
+This is plugin AMXX JANUS-5 to Counter Strike 1.6
 # Cvars
-* cyclone_damage "8.0" // Damage per shot
+* janus5_shots "65" // Number of shots to charge the secondary attack. Defult: 65
+* zp_janus5_shots "65" // Number of shots to charge the secondary attack. Defult: 65 (Zombie Plague)
 # Video Presentation
-https://youtu.be/HaJrqImVln4
+https://youtu.be/X_AMEKwZcyA
